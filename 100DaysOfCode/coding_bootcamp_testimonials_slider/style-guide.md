@@ -15,7 +15,7 @@ The designs were created to the following widths:
 - Grayish Blue: hsl(240, 18%, 77%)
 
 ## Typography
-
+  
 ### Body Copy
 
 - Font size: 32px
